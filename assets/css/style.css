@@ -1,0 +1,42 @@
+body {
+  background-image: url(images/space4.jpg);
+  background-size: cover;
+
+}
+
+#heading {
+  font-family: Times;
+  font-weight: bold;
+  font-family: 'Bangers', cursive;
+ 
+}
+
+#subHeading {
+  font-family: Times;
+  font-style: italic;
+  font-family: 'Bangers', cursive;
+}
+
+.panel-title {
+  font-weight: bold;
+  font-family: 'Khand', sans-serif;
+  font-size: 24px;
+}
+
+th {
+  font-weight: bold;
+  font-family: 'Khand', sans-serif;
+}
+
+.jumbotron {
+  background-color: rgba(13, 55, 240, 0.45);
+ }
+
+.pull-left{
+  font-family: 'Khand', sans-serif;
+  font-size: large;
+}
+
+.row{font-family: 'Khand', sans-serif;}
+
+.heading{font-size: 60px;}
